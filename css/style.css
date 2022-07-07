@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(228, 249, 249);
+}
+hr{
+    background-color: antiquewhite;
+    width: 40px;
+    border-style: none;
+    border-top-style: dotted;
+}
+h3{
+    color: #66bfbf;
+}
